@@ -5,7 +5,7 @@ namespace Test
     public class TestingDiv0
     {
         [Fact]
-        public void raiseErrorDiv0()
+        public void RaiseErrorDiv0()
         {
             //Arrange
             var calculator = new Calculators.Calculator();
